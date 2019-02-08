@@ -1,0 +1,15 @@
+C:\Users\m9kha\source\repos\MessageClient\MessageClient\bin\Debug\MessageClient.exe.config
+C:\Users\m9kha\source\repos\MessageClient\MessageClient\bin\Debug\MessageClient.exe
+C:\Users\m9kha\source\repos\MessageClient\MessageClient\bin\Debug\MessageClient.pdb
+C:\Users\m9kha\source\repos\MessageClient\MessageClient\obj\Debug\MessageClient.csprojAssemblyReference.cache
+C:\Users\m9kha\source\repos\MessageClient\MessageClient\obj\Debug\MessageClient.Properties.Resources.resources
+C:\Users\m9kha\source\repos\MessageClient\MessageClient\obj\Debug\MessageClient.csproj.GenerateResource.cache
+C:\Users\m9kha\source\repos\MessageClient\MessageClient\obj\Debug\MessageClient.csproj.CoreCompileInputs.cache
+C:\Users\m9kha\source\repos\MessageClient\MessageClient\obj\Debug\MessageClient.exe
+C:\Users\m9kha\source\repos\MessageClient\MessageClient\obj\Debug\MessageClient.pdb
+C:\Users\m9kha\source\repos\MessageClient\MessageClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\m9kha\source\repos\MessageClient\MessageClient\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\m9kha\source\repos\MessageClient\MessageClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\m9kha\source\repos\MessageClient\MessageClient\obj\Debug\MessageClient.csproj.CopyComplete
+C:\Users\m9kha\source\repos\MessageClient\MessageClient\obj\Debug\MessageClient.Welcome.resources
+C:\Users\m9kha\source\repos\MessageClient\MessageClient\obj\Debug\MessageClient.MainWindow.resources
